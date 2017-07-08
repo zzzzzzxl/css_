@@ -16,7 +16,7 @@ max-width: 1920px;
 ```
 
 效果图
-![upload successful](/images/pasted-9.png)
+![](http://osp90rpxy.bkt.clouddn.com/17-7-8/60886452.jpg)
 
 banner及footer属性
 ```
