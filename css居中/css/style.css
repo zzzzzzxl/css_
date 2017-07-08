@@ -1,0 +1,61 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.banner{
+	width: 100%;
+	min-width: 1200px;
+	max-width: 1920px;
+	margin: 0 auto;
+	background-color: #f2c112;
+	height: 680px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.banner h2 {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.container{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.fengjing{
+	background-color: #ccc;
+	height: 300px;
+}
+
+.fengjing-left{
+	width: 100px;
+	height: 100%;
+	float: left;
+	background-color: #baeecc;
+}
+.fengjing-right{
+	width: 200px;
+	height: 100%;
+	float: right;
+	background-color: #baeecc;
+}
+
+.yule{
+	background-color: #ee1111;
+	height: 400px;
+}
+
+.game{
+	background-color: #22babc;
+	height: 230px;
+}
+.footer{
+	width: 100%;
+	min-width: 1200px;
+	max-width: 1920px;
+	background-color: #ddaadd;
+	min-height: 100px;
+	text-align: center;
+}
